@@ -1,2 +1,2 @@
 # rip-crawler
-do not ask me what the f is this
+do not ask me wtf is this
